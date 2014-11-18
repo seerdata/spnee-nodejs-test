@@ -1,10 +1,5 @@
 
-This assumes you have
-[node.js]
-(http://nodejs.org/) 
-installed on your system.
+These are sample clients that allow you to talk to our
+generic event system server.
 
-To install simply run the following commands.
-
-cd spinnakr-spne-client
-npm install request
+Simply cd into one of the client directories for further instructions.
